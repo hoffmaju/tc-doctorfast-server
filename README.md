@@ -22,11 +22,6 @@ npm install
 
 **Set up your database**
 
-* Create a new directory where your database will be stored (it's a good idea to separate data and business logic - the data directory should be on a different place than your app)
-* Start the database server
-```
-mongod --dbpath relative/path/to/database
-```
 * Create all database schemes and import data to begin with
 ```
 mongorestore dump/
@@ -34,7 +29,6 @@ mongorestore dump/
 
 ## Start the project
 
-**Production environment**
 ```bash
 node index.js
 ```
