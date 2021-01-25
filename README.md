@@ -3,6 +3,10 @@
 
 This is the backend of the web app.
 
+## Getting Started
+
+To get you started you can simply clone the [tc-doctorfast-server](hhttps://github.com/hoffmaju/tc-doctorfast-server/) repository and install all its dependencies:
+
 ## Prerequisites
 * nodejs [official website](https://nodejs.org/en/) - nodejs includes [npm](https://www.npmjs.com/) (node package manager)
 * mongodb [official installation guide](https://docs.mongodb.org/manual/administration/install-community/)
