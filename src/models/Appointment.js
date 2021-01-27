@@ -23,10 +23,10 @@ const appointmentSchema = mongoose.Schema({
 	nodiscussion: {
 		type: Boolean
 	},
-	noquestions: {
+	consented: {
 		type: Boolean
 	},
-	noquestions: {
+	refused: {
 		type: Boolean
 	},
 	readThrough: {
